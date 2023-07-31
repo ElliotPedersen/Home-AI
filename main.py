@@ -6,8 +6,8 @@ import requests
 import speech_recognition as sr
 import subprocess
 
-weather_api_key = '366684aadb129534766282289fd0921a'
-news_api_key = '62a4b3c1c10249f9af8ae64f369b96a5'
+weather_api_key = 'WEATHER_API_KEY'
+news_api_key = 'NEWS_API_KEY'
 
 volume = 0
 voice_id = "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_DAVID_11.0"
